@@ -3,10 +3,10 @@ import "../components/styles/NavTabs.css";
 
 function NavTabs({ currentPage, handlePageChange }) {
   return (
-    <nav className="navbar">
+    <nav className="navbar navbar-expand-lg bg-body-tertiary">
       <div className="container-fluid">
-        <span className="navbar-brand">HG.</span>
-        <ul className="nav">
+        <span className="navbar-brand mb-0">HG.</span>
+        <ul className="nav nav-expand-sm ">
           <li className="nav-item">
             <a
               href="#about"

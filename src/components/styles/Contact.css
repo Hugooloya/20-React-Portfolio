@@ -1,14 +1,11 @@
-.container {
-    margin-top: 7rem;
-}
-h1 {
+legend {
     font-weight: 600;
     font-size: 3rem !important;
     color: var(--maximum-yellow-red);
 }
 
-p {
-    font-size: 1.8rem !important;
+label {
+    font-size: 1.2rem !important;
     color: var(--granite-gray);
-    margin-top: 3rem !important;
+    margin-top: 2rem !important;
 }
