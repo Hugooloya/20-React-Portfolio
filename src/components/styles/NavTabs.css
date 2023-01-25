@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Nunito:wght@200;300;400;500;700&display=swap');
+
+:root {
+    --black-olive: #423e37ff;
+    --maximum-yellow-red: #e3b23cff;
+    --eggshell: #edebd7ff;
+    --spanish-gray: #a39594ff;
+    --granite-gray: #6e675fff;
+}
+
+* {
+    font-family: 'Nunito', sans-serif;
+}
+
+nav {
+    height: 8rem;
+    border-bottom: 1px solid var(--black-olive);
+}
+
+span {
+    /* padding: 4rem; */
+    font-size: 5rem !important;
+    font-family: 'Caveat', cursive !important;
+}
+
+.nav-link {
+    padding: 2rem !important;
+    color: var(--black-olive) !important;
+    font-size: 1rem !important;
+    font-weight: 500 !important;
+}
+
+.active {
+    color: var(--maximum-yellow-red) !important;
+    font-weight: 500 !important;
+}
