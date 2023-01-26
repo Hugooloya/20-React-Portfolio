@@ -9,3 +9,29 @@ label {
     color: var(--granite-gray);
     margin-top: 2rem !important;
 }
+
+input {
+    outline: 1px solid var(--eggshell) !important;
+}
+
+input:focus {
+    outline: 3px solid var(--maximum-yellow-red) !important;
+    box-shadow: none !important;
+    border: none !important;
+}
+
+textarea {
+    outline: 1px solid var(--eggshell) !important;
+}
+
+
+textarea:focus {
+    outline: 2px solid var(--maximum-yellow-red) !important;
+    box-shadow: none !important;
+    border: none !important;
+}
+
+button {
+    background-color: var(--maximum-yellow-red) !important;
+    border: none !important;
+}
