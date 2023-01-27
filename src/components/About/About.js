@@ -1,8 +1,9 @@
 import React from "react";
-import "../styles/About.css";
+import "./About.css";
 
 export default function About() {
   return (
+    <div className="container-fluid">
     <div className="container">
       <div className="row">
         <h1 className="col">About</h1>
@@ -21,6 +22,7 @@ export default function About() {
           comes to my work, since I believe it makes a huge difference.
         </p>
       </div>
+    </div>
     </div>
   );
 }

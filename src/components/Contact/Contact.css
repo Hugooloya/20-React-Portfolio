@@ -1,4 +1,4 @@
-legend {
+/* legend {
     font-weight: 600;
     font-size: 3rem !important;
     color: var(--maximum-yellow-red);
@@ -34,4 +34,4 @@ textarea:focus {
 button {
     background-color: var(--maximum-yellow-red) !important;
     border: none !important;
-}
+} */
