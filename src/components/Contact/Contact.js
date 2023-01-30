@@ -3,9 +3,9 @@ import "./Contact.css";
 
 export default function Contact() {
   return (
-    <div className="container-fluid">
+    <div className="container-fluid main-section">
       <form className="container">
-        <h1>Contact</h1>
+        <h1 className="section-title">Contact</h1>
         <div className="mb-3">
           <label htmlFor="inputName" className="form-label">
             Name

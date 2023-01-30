@@ -1,37 +1,25 @@
-/* legend {
-    font-weight: 600;
-    font-size: 3rem !important;
-    color: var(--maximum-yellow-red);
+.contact-section {
+    margin-top: 3rem;
 }
 
-label {
+.form-label {
     font-size: 1.2rem !important;
     color: var(--granite-gray);
     margin-top: 2rem !important;
 }
 
-input {
+.form-control {
     outline: 1px solid var(--eggshell) !important;
 }
 
-input:focus {
-    outline: 3px solid var(--maximum-yellow-red) !important;
-    box-shadow: none !important;
-    border: none !important;
-}
-
-textarea {
-    outline: 1px solid var(--eggshell) !important;
-}
-
-
-textarea:focus {
+.form-control:focus {
     outline: 2px solid var(--maximum-yellow-red) !important;
     box-shadow: none !important;
     border: none !important;
 }
 
-button {
+.btn-primary {
     background-color: var(--maximum-yellow-red) !important;
     border: none !important;
-} */
+    margin-top: 2rem;
+}

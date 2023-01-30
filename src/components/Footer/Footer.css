@@ -1,8 +1,37 @@
-/* .container-fluid {
-    height: 100vh !important;
+.footer-element {
+    margin-top: 5rem !important;   
 }
+
 .social-media a {
     color: black !important;
-    font-size: 4rem;
-    margin-left: 2rem !important;
-} */
+    font-size: 2.5rem;
+}
+
+.social-media a:hover {
+    color: var(--granite-gray) !important;
+    font-size: 2.5rem;
+}
+
+@media (max-width: 575.98px) {
+    .social-media a {
+        color: black !important;
+        font-size: 2.5rem;
+    }
+
+    .social-media a:hover {
+        color: var(--granite-gray) !important;
+        font-size: 2.5rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .social-media a {
+        color: black !important;
+        font-size: 2.5rem;
+    }
+
+    .social-media a:hover {
+        color: var(--granite-gray) !important;
+        font-size: 2.5rem;
+    }
+}

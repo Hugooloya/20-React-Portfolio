@@ -3,12 +3,12 @@ import "./Resume.css";
 
 export default function Resume() {
   return (
-    <div className="container-fluid">
+    <div className="container-fluid main-section">
       <div className="container">
-        <h1>Resume</h1>
-        <h2>Front-end Proficiencies</h2>
-        <ul className="ulEl">
-          <li className="test">HTML</li>
+        <h1 className="section-title">Resume</h1>
+        <h2 className="list-title">Front-end Proficiencies</h2>
+        <ul className="list-elements">
+          <li>HTML</li>
           <li>CSS</li>
           <li>JavaScript</li>
           <li>JQuery</li>
@@ -16,8 +16,8 @@ export default function Resume() {
           <li>React</li>
           <li>Bootstrap</li>
         </ul>
-        <h2>Back-end Proficiencies</h2>
-        <ul className="ulEl">
+        <h2 className="list-title">Back-end Proficiencies</h2>
+        <ul className="list-elements">
           <li>API's</li>
           <li>Node</li>
           <li>Express</li>
@@ -26,7 +26,7 @@ export default function Resume() {
           <li>REST</li>
           <li>GraphQL</li>
         </ul>
-        <h3>Download my resume</h3>
+        <h3 className="resume-element">Download my resume.</h3>
       </div>
     </div>
   );
