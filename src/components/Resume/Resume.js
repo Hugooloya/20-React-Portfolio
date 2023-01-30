@@ -26,7 +26,11 @@ export default function Resume() {
           <li>REST</li>
           <li>GraphQL</li>
         </ul>
-        <h3 className="resume-element">Download my resume.</h3>
+        <div className="resume-element">
+          <p>
+            Download my <a className="resume-link" href="https://drive.google.com/uc?export=download&id=1OSQYS86pOA9MQmXvIXnuURdaU9U6a6UC">resume.</a>
+          </p>
+        </div>
       </div>
     </div>
   );

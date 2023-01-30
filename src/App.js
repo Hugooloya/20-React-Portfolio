@@ -8,6 +8,7 @@ import Resume from "./components/Resume/Resume";
 import Footer from "./components/Footer/Footer";
 import projects from "./projects";
 
+
 export default function App() {
   return (
     <>

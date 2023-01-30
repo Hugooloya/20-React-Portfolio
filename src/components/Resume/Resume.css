@@ -20,6 +20,15 @@
     margin-top: 3rem !important;
 }
 
+.resume-link {
+    color: var(--granite-gray);
+    text-decoration: none;
+}
+
+.resume-link:hover {
+    color: var(--maximum-yellow-red);
+}
+
 @media (max-width: 576px) {
     .list-title {
         font-size: 1.4rem !important;
