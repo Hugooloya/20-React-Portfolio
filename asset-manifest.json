@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/20-React-Portfolio/static/css/main.64dd9901.css",
-    "main.js": "/20-React-Portfolio/static/js/main.5433e8aa.js",
-    "static/media/scheduler.jpg": "/20-React-Portfolio/static/media/scheduler.2bc44fe75031917ce539.jpg",
-    "static/media/weather.jpg": "/20-React-Portfolio/static/media/weather.387fd48ede5c5a018aa0.jpg",
-    "static/media/blog.jpg": "/20-React-Portfolio/static/media/blog.ff1f57e6a37aba70bdc0.jpg",
-    "static/media/parts.jpg": "/20-React-Portfolio/static/media/parts.af9a7181e01dbc601d92.jpg",
-    "static/media/notes.jpg": "/20-React-Portfolio/static/media/notes.dfa374e3fd4a9ad7e8ec.jpg",
-    "static/media/quizz.jpg": "/20-React-Portfolio/static/media/quizz.c0de3fb7853e05f8c942.jpg",
-    "index.html": "/20-React-Portfolio/index.html",
-    "main.64dd9901.css.map": "/20-React-Portfolio/static/css/main.64dd9901.css.map",
-    "main.5433e8aa.js.map": "/20-React-Portfolio/static/js/main.5433e8aa.js.map"
+    "main.css": "/static/css/main.64dd9901.css",
+    "main.js": "/static/js/main.cf32b8df.js",
+    "static/media/scheduler.jpg": "/static/media/scheduler.2bc44fe75031917ce539.jpg",
+    "static/media/weather.jpg": "/static/media/weather.387fd48ede5c5a018aa0.jpg",
+    "static/media/blog.jpg": "/static/media/blog.ff1f57e6a37aba70bdc0.jpg",
+    "static/media/parts.jpg": "/static/media/parts.af9a7181e01dbc601d92.jpg",
+    "static/media/notes.jpg": "/static/media/notes.dfa374e3fd4a9ad7e8ec.jpg",
+    "static/media/quizz.jpg": "/static/media/quizz.c0de3fb7853e05f8c942.jpg",
+    "index.html": "/index.html",
+    "main.64dd9901.css.map": "/static/css/main.64dd9901.css.map",
+    "main.cf32b8df.js.map": "/static/js/main.cf32b8df.js.map"
   },
   "entrypoints": [
     "static/css/main.64dd9901.css",
-    "static/js/main.5433e8aa.js"
+    "static/js/main.cf32b8df.js"
   ]
 }
