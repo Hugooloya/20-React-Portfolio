@@ -4,8 +4,25 @@ import weather from "./components/assets/weather.jpg";
 import notes from "./components/assets/notes.jpg";
 import blog from "./components/assets/blog.jpg";
 import parts from "./components/assets/parts.jpg";
+import dinner from "./components/assets/dinner.png";
 
 const projects = [
+  {
+    img: dinner,
+    title: "Dinner Picker",
+    url: "https://dinnerpicker.online/",
+    gitHub: "https://github.com/TuinderJ/dinner-picker",
+    tech: "MERN",
+    key: "07",
+  },
+  {
+    img: parts,
+    title: "Vehicle Referance",
+    url: "https://calm-stream-98427.herokuapp.com/",
+    gitHub: "https://github.com/TuinderJ/Vehicle-Reference",
+    tech: "MERN",
+    key: "06",
+  },
   {
     img: quizz,
     title: "Quiz Challenge",
@@ -45,14 +62,6 @@ const projects = [
     gitHub: "https://github.com/Hugooloya/14-Tech-Blog",
     tech: "MERN",
     key: "05",
-  },
-  {
-    img: parts,
-    title: "Vehicle Referance",
-    url: "https://calm-stream-98427.herokuapp.com/",
-    gitHub: "https://github.com/TuinderJ/Vehicle-Reference",
-    tech: "MERN",
-    key: "06",
   },
 ];
 
